@@ -1,0 +1,29 @@
+body{
+	background: #2e282a;
+	font-family: sans-serif;
+	color: whitesmoke;
+
+}
+h1{
+	color: whitesmoke;
+
+}
+h3{
+	color: greenyellow;
+}
+table{
+	background-color: whitesmoke;
+	color: black;
+	font-size: 12px;
+	text-align: center;
+}
+
+th{
+	font-size: 16px;
+	background-color: green;
+	color: white;
+}
+
+
+
+
